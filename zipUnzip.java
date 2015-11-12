@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.zip.*;
 import java.io.*;
 
-public class zipUnzip {
+public class ZipUnzip {
 	private static final int BUFFER_SIZE = 4096;
 
 	/**
